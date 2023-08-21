@@ -1,4 +1,4 @@
-import { Navigate, useNavigate, Routes, Route } from "react-router-dom";
+import { useNavigate, Routes, Route } from "react-router-dom";
 
 const Post = () => {
     const status = 200
